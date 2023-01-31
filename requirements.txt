@@ -1,0 +1,3 @@
+pywin32==305
+uiautomation==2.0.17
+Pillow==9.4.0
